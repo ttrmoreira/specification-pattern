@@ -84,7 +84,7 @@ The code above defines a business rule using the Specification pattern. It combi
 
 
 ---
- 🇧🇷 ## PT_BR
+# 🇧🇷 PT_BR
 
 # Padrão Specification em Java
 
