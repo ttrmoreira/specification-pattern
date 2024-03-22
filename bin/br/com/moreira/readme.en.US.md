@@ -1,6 +1,5 @@
-Of course! Here's the `readme.md` translated into English:
 
----
+#  🇺🇸 English
 
 # Specification Pattern in Java
 
@@ -82,5 +81,3 @@ The code above defines a business rule using the Specification pattern. It combi
 2. **Learning Curve:** It might be a bit challenging for developers unfamiliar with the pattern to understand it initially.
 3. **Performance:** If many specifications are used together or if they are poorly optimized, there could be a performance hit when evaluating the rules.
 4. **Refactoring:** Changes in business rules might require significant refactoring if the pattern isn't well-implemented.
-
----
